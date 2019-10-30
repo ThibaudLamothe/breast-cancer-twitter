@@ -1,0 +1,21 @@
+# Classic
+numpy
+scipy
+pandas==0.24.0
+autopep8
+
+# Notebooks
+jupyter 
+jupyterlab
+
+# Viz
+matplotlib
+seaborn
+
+# ML
+scikit-learn
+nltk
+
+# Specific
+tweepy
+python-twitter
