@@ -1,0 +1,11 @@
+[keys]
+consumer_key= token
+consumer_secret=  token
+access_token= token
+access_token_secret= token
+
+[API]
+API_KEY = token
+API_SECRET_KEY = token
+ACCESS_TOKEN = token
+ACCESS_TOKEN_SECRET = token

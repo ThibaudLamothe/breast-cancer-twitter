@@ -2,11 +2,7 @@
 numpy
 scipy
 pandas==0.24.0
-autopep8
-
-# Notebooks
-jupyter 
-jupyterlab
+jsonpickle
 
 # Viz
 matplotlib
@@ -15,6 +11,8 @@ seaborn
 # ML
 scikit-learn
 nltk
+textblob-fr
+textblob
 
 # Specific
 tweepy

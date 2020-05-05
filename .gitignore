@@ -6,4 +6,6 @@ __pycache__
 Pipfile
 Pipfile.lock
 
-credentials.py
+
+*.ini
+*.p
