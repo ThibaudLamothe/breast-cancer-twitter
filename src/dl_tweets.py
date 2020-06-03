@@ -2,7 +2,7 @@ import os
 import sys
 import tweepy
 import jsonpickle
-from twitter import *
+from authenticate import *
 
 
 def load_save_tweets(api, searchQuery, tweetsPerQry, file_name, maxTweets, max_id, sinceId):
